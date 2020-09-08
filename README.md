@@ -9,17 +9,26 @@ Datasets used to produce charts and numbers are under CC BY-4.0. Below more exac
 
 ## Used Datasets:
 
-### 1
+**1**
+
 The World Bank(https://data.worldbank.org/indicator/IT.NET.USER.ZS)
+
 Dataset name: IT.NET.USER.ZS
+
 Licensed under CC BY-4.0
 
-### 2
+**2**:
+
 The European Commission(https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=isoc_ec_eseln2&lang=en)
+
 Name: E-commerce sales
+
 Licensed under CC BY-4.0
 
-### 3
+**3**
+
 The European Commission(https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=isoc_cismp&lang=en)
+
 Name:  Social media use by purpose
+
 Licensed under CC BY-4.0
