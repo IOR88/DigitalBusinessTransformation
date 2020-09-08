@@ -2,9 +2,11 @@
 
 ## The purpose of this notebook is to visualize how increase of internet usage increase the ecommerce sales and how this process will affect businesses which will not undertake digital transformation
 
-![alt text](https://github.com/IOR88/DigitalBusinessTransformation/blob/master/Screenshot_2020-09-08%20DigitalBusinessTransformation%20-%20Jupyter%20Notebook.png)
+![alt text](https://github.com/IOR88/DigitalBusinessTransformation/blob/master/newplot.png)
 
-![alt text](https://github.com/IOR88/DigitalBusinessTransformation/blob/master/Screenshot_2020-09-08%20DigitalBusinessTransformation%20-%20Jupyter%20Notebook(1).png)
+![alt text](https://github.com/IOR88/DigitalBusinessTransformation/blob/master/newplot(1).png)
+
+![alt text](https://github.com/IOR88/DigitalBusinessTransformation/blob/master/newplot(2).png)
 
 ## Content
 If You are interested to read my isights based on graphs and data check this article:
