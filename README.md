@@ -6,6 +6,10 @@
 
 ![alt text](https://github.com/IOR88/DigitalBusinessTransformation/blob/master/Screenshot_2020-09-08%20DigitalBusinessTransformation%20-%20Jupyter%20Notebook(1).png)
 
+## Content
+If You are interested to read my isights based on graphs and data check this article:
+https://medium.com/@igor_miazek/digital-business-transformation-is-it-for-me-poland-as-study-case-6e97c0a4637b
+
 # License
 This repository files licenced under the MIT License.
 
